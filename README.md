@@ -1,4 +1,4 @@
-# Silenum
+# Selenium
 ---
 ## Автоматическое тестирование на Python Selenium
 
